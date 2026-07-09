@@ -1,1 +1,1 @@
-print("Selam GitHub, ben geldim!12442422")
+print("Selam GitHub, ben geldimmmm22322")
